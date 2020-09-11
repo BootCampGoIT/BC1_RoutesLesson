@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+}
+
+.link {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.activeLink {
+  color: red;
+}

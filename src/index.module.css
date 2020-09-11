@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:global(.flex) {
+  display: flex;
+  align-items: center;
+}
+
+:global(.button) {
+  background-color: cornflowerblue;
+  width: 100px;
+}
+
+:global(.list) {
+  list-style: none;
+}
+
+:global(.listItem) {
+  margin: 10px;
+}
